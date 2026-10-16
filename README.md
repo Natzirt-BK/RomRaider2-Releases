@@ -6,8 +6,16 @@ The active development repository is private. This public repository is intentio
 limited to release downloads, checksums, release notes, and the exact corresponding
 source required for each distributed GPL build.
 
-Use the Releases section to download builds for supported platforms.
-Release packages are prerelease/testing builds unless explicitly marked stable.
+**Current public candidate (verified October 16, 2026):**
+[RomRaider2 1.1.12 RC1](https://github.com/Natzirt-BK/RomRaider2-Releases/releases/tag/romraider2-1.1.12).
+Earlier 1.1.11 RC1 packages remain available in the Releases section.
+Private 1.1.13 development previews are **not** a public stable release.
+
+Download only the package appropriate to your platform. Check the matching
+`.sha256` file before installation, and preserve any existing ROMs, definitions,
+profiles and logs. All current public packages are prerelease/testing builds;
+no stable release is implied. Source archives and their checksum sidecars are
+attached to the same release as the corresponding binaries.
 
 For every published build:
 - compiled platform packages include SHA-256 checksum sidecars;
